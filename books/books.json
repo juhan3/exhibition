@@ -3,8 +3,12 @@
     [
         {
         "image" : "https://juhan3.github.io/exhibition/books/images/6813916.jpg",
-        "title" : "QueerMOA",
-        "contents" : "QueerMOA' is a word made by combining queer and 'moa' in Korean 'collect'. Korean Queer Archive."
+        "title" : "젠더트러블",
+        "contents" : "QueerMOA' is a word made by combining queer and 'moa' in Korean 'collect'. Korean Queer Archive.",
+        "location" : "", 
+        "contents" : "",
+        "whendate" : "",
+        "url" : ""
         }
     ]
 }
