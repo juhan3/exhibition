@@ -9,15 +9,7 @@
         "whendate" : "2021년 11월 17일",
         "url" : "https://movie.daum.net/moviedb/main?movieId=149618"
         },
-        {
-        "image" : "https://juhan3.github.io/exhibition/watch/images/02.jpg",
-        "title" : "캐롤",
-        "person": "감독 토드 헤인스",
-        "contents" : "",
-        "location" : "출연 케이트 블란쳇(캐롤 에어드) 루니마라(테레즈 벨리벳) 세라 폴슨 (애비게르하르트) 카일 챈들러 (하지 에어드) 제이크 레이시 (리차드 셈코) 코리 마이클 스미스(토미 터커) 존 마가로 (대니 맥엘로이) 캐리 브라운스타인 (제네비브 캔트렐)", 
-        "whendate" : "개봉 2015년 5월 17일(칸) 러닝타임 118분",
-        "url" : ""
-        }
+       
       
     ]
 }
