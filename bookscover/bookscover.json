@@ -3,7 +3,7 @@
         {
         "image" : "https://juhan3.github.io/exhibition/books/images/6813916.jpg",
         "title" : "젠더트러블",
-        "contents" "testcontents",
+        "contents" : "testcontents",
         "location" : "location", 
         "whendate" : "저자: 주디스 버틀러",
         "url" : "http://www.yes24.com/Product/Goods/3214291"
