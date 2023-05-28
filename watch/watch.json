@@ -1,22 +1,22 @@
 {"results" :
     [
         {
-        "image" : "https://juhan3.github.io/exhibition/watch/images/01.jpeg",
-        "title" : "너에게 가는길",
-        "person": "감독 변규리",
-        "contents" : "",
-        "location" : "주연 나비,비비안,한결,예준", 
-        "whendate" : "개봉 2021년 11월 17일 러닝타임 93분",
-        "url" : "https://movie.daum.net/moviedb/main?movieId=149618"
+        "image" : "https://juhan3.github.io/exhibition/podcast/images/01.png",
+        "title" : "게이PC방",
+        "person": "Team GPCR.",
+        "contents" : "일상을 살아가는 퀴어들의 랜선 놀이터! 페미니즘을 비롯하여 소수자 차별 및 각종 고정관념에 관한 이슈 등을 게이들의 시선으로 다루는 방송입니다.\n카테고리:교양",
+        "location" : "진행: 삼식,이지금,한나 \n 제작: Team GPCR", 
+        "whendate" : "개설일 2018년 4월 9일",
+        "url" : "https://www.podbbang.com/channels/16439"
         },
          {
-        "image" : "https://juhan3.github.io/exhibition/watch/images/02.jpg",
-        "title" : "캐롤",
-        "person": "감독 토드 헤인스 각본	필리스 나지",
-        "contents" : "",
-        "location" : "출연 케이트 블란쳇(캐롤 에어드) 루니마라(테레즈 벨리벳) 세라 폴슨 (애비게르하르트) 카일 챈들러 (하지 에어드) 제이크 레이시 (리차드 셈코) 코리 마이클 스미스(토미 터커) 존 마가로 (대니 맥엘로이) 캐리 브라운스타인 (제네비브 캔트렐)", 
-        "whendate" : "개봉 2015년 5월 17일(칸) 러닝타임 118분",
-        "url" : ""
+        "image" : "https://juhan3.github.io/exhibition/podcast/images/02.jpg",
+        "title" : "여섯 빛깔 무지개",
+        "person": "인천문화재단",
+        "contents" : " 여섯 빛깔 무지개는 성소수자를 상징하는 상징 중에서도 가장 대중적이고 국제적인 인기를 누리고 있는 상징으로, 남색을 제외한 여섯 빛깔의 무지개는 다양성을 의미합니다. 이 팟캐스트는 인천문화재단이 <2014 문화다양성 확산을 위한 무지개다리사업>의 일환으로 진행합니다.",
+        "location" : "진행 임금준 AKA 이정우 \n 지원 인천문화재단", 
+        "whendate" : "개설일 2014년 6월 17일",
+        "url" : "https://www.podbbang.com/channels/7776"
         }
     ]
 }
