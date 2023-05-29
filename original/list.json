@@ -4,7 +4,11 @@
         "image" : "https://juhan3.github.io/exhibition/original/ready.png",
         "title" : "준비중",
         "person": "공지",
-        "url" : "https://www.sqcf.org",
+        "contents" : "",
+        "location" : "", 
+        "whendate" : "",
+        "url" : "https://twitter.com/cxxt",
+        "youtubeurl" : ""
         }
     ]
 }
