@@ -17,6 +17,15 @@
         "location" : "진행 임금준 AKA 이정우 \n 지원 인천문화재단", 
         "whendate" : "개설일 2014년 6월 17일",
         "url" : "https://www.podbbang.com/channels/7776"
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/podcast/images/03.png",
+        "title" : "이쪽이야",
+        "person": "아무말프로독숀",
+        "contents" : "다사다난한 효모친구들의 세상사는 이야기!",
+        "location" : "진행 말랑", 
+        "whendate" : "개설일 2020년 5월 3일",
+        "url" : "https://www.podbbang.com/channels/1775996"
         }
     ]
 }
