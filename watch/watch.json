@@ -8,7 +8,7 @@
         "location" : "주연", 
         "whendate" : "개봉일",
         "url" : "https://www.podbbang.com/channels/16439",
-        "youtube" : "https://youtu.be/-F3xOOPWX58"
+        "youtubeurl" : "https://youtu.be/-F3xOOPWX58"
         },
          {
         "image" : "https://juhan3.github.io/exhibition/watch/images/02.jpg",
@@ -18,7 +18,7 @@
         "location" : "주연", 
         "whendate" : "개봉일",
         "url" : "https://www.podbbang.com/channels/7776",
-        "youtube" : ""
+        "youtubeurl" : ""
         }
     ]
 }
