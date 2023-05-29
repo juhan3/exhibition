@@ -3,9 +3,9 @@
         {
         "image" : "https://juhan3.github.io/exhibition/original/ready.png",
         "title" : "준비중",
-        "person": "공지",
+        "person": "",
         "contents" : "",
-        "location" : "", 
+        "location" : "공지", 
         "whendate" : "",
         "url" : "https://twitter.com/cxxt",
         "youtubeurl" : ""
