@@ -26,6 +26,15 @@
         "location" : "진행 말랑", 
         "whendate" : "개설일 2020년 5월 3일",
         "url" : "https://www.podbbang.com/channels/1775996"
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/podcast/images/04.jpg",
+        "title" : "퀴생정보통",
+        "person": "퀴생정보통",
+        "contents" : "퀴어들이 가장 많이 듣는 퀴어생정 프로그램",
+        "location" : "진행 아랑,사숭,푸키,후야", 
+        "whendate" : "개설일 2020년 6월 5일",
+        "url" : "https://www.podbbang.com/channels/1776372"
         }
     ]
 }
