@@ -5,8 +5,8 @@
         "title" : "너에게 가는 길",
         "person": "감독",
         "contents" : "내용 테스트",
-        "location" : "주연dㅇ", 
-        "whendate" : "개봉일",
+        "location" : "영화", 
+        "whendate" : "개봉일 및 주연",
         "url" : "https://www.podbbang.com/channels/16439",
         "youtubeurl" : "-F3xOOPWX58"
         },
@@ -15,8 +15,8 @@
         "title" : "캐롤",
         "person": "감독",
         "contents" : "영화 내용",
-        "location" : "주연ㅇ", 
-        "whendate" : "개봉일",
+        "location" : "영화", 
+        "whendate" : "개봉일 및 주연",
         "url" : "gUxptKqNr4Q",
         "youtubeurl" : "gUxptKqNr4Q"
         }
