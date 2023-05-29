@@ -19,6 +19,16 @@
         "whendate" : "",
         "url" : "https://www.sqcf.org/notice/?bmode=view&idx=15281248",
         "youtubeurl" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/pride/images/03.jpg",
+        "title" : "프라이드웨딩",
+        "person": "Best Pride Wedding",
+        "contents" : "모두가 평등한 무지개빛 웨딩",
+        "location" : "", 
+        "whendate" : "",
+        "url" : "https://linktr.ee/pridewedding",
+        "youtubeurl" : ""
         }
     ]
 }
