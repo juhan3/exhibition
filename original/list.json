@@ -2,20 +2,20 @@
     [
         {
         "image" : "https://juhan3.github.io/exhibition/original/ready1.png",
-        "title" : "웹툰 준비중",
-        "person": "작가 이름",
+        "title" : "모아모야",
+        "person": "퀴어모아",
         "contents" : "",
-        "location" : "공지", 
+        "location" : "웹툰", 
         "whendate" : "",
         "url" : "https://juhan3.github.io/exhibition/original/webtoon01/webtoon01.json",
         "youtubeurl" : ""
         },
         {
         "image" : "https://juhan3.github.io/exhibition/original/ready2.png",
-        "title" : "웹소설 준비중",
-        "person": "작가 이름",
+        "title" : "모으다",
+        "person": "퀴어모아",
         "contents" : "",
-        "location" : "공지", 
+        "location" : "글", 
         "whendate" : "",
         "url" : "https://juhan3.github.io/exhibition/original/post01/post01.json",
         "youtubeurl" : ""
