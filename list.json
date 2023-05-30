@@ -9,8 +9,8 @@
         "whendate" : "2023. 4. 12 - 4. 16 \n *VIP & PRESS 프리뷰 관람 \n 4. 12 (수) 15:00 – 20:00 \n *일반관람 4. 13(목) – 15(토) 11:00 – 19:30  \n 4. 16(일) 11:00 – 17:00",
         "url" : "https://twitter.com/cxxt",
         "youtubeurl" : "",
-        "latitude": 37.12345,
-        "longitude": 126.98765
+        "latitude": 37.5117,
+        "longitude": 127.0592
         },
          {
         "image" : "https://juhan3.github.io/exhibition/images/03.jpg",
@@ -21,8 +21,8 @@
         "whendate" : "Placemak BKK \n 2023.2.16-3.15 \n 10:00 - 18:00 * Closed on Sunday and Monday",
         "url" : "https://twitter.com/cxxt",
         "youtubeurl" : "",
-        "latitude": 37.12345,
-        "longitude": 125.98765
+        "latitude": 13.7174,
+        "longitude": 100.5906
         },
         {
         "image" : "https://juhan3.github.io/exhibition/images/04.jpg",
@@ -33,8 +33,8 @@
         "whendate" : "기간: 2023.4.28(금) - 5.28(일)\n시간: 1시-7시(월요일 휴관)\n주최:합정지구",
         "url" : "https://twitter.com/salchingu",
         "youtubeurl" : "",
-        "latitude": 37.12345,
-        "longitude": 124.98765
+        "latitude": 37.55290,
+        "longitude": 126.91248
         },
         {
         "image" : "https://juhan3.github.io/exhibition/images/05.jpg",
@@ -45,8 +45,8 @@
         "whendate" : "기간: 2022년 6월1일-2022년 6월30\n시간: 평일 15-24 주말 12-24\n",
         "url" : "https://www.instagram.com/p/CeQeklqvg9X/?igshid=MzRlODBiNWFlZA==",
         "youtubeurl" : "",
-        "latitude": 37.12345,
-        "longitude": 127.98765
+        "latitude": 37.544453,
+        "longitude": 126.91484
         }
     ]
 }
