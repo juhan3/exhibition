@@ -1,17 +1,35 @@
 {"results" :
     [
         {
-        "image" : "https://juhan3.github.io/exhibition/cover/06.png",
-        "contents" : "awegawegawegawegweg"
+        "image" : "https://juhan3.github.io/exhibition/original/webtoon01/images/007.png",
+        "contents" : ""
         },
       {
-        "image" : "https://juhan3.github.io/exhibition/cover/06.png",
-          "contents" : "awegwegaweg"
+        "image" : "https://juhan3.github.io/exhibition/original/webtoon01/images/008.png",
+          "contents" : ""
         },
-      {
-        "image" : "",
+        {
+        "image" : "https://juhan3.github.io/exhibition/original/webtoon01/images/009.png",
+          "contents" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/original/webtoon01/images/010.png",
+          "contents" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/original/webtoon01/images/011.png",
+          "contents" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/original/webtoon01/images/012.png",
+          "contents" : ""
+        },
+         {
+        "image" : "https://juhan3.github.io/exhibition/original/webtoon01/images/013.png",
           "contents" : ""
         }
+        
+     
          
     ]
 }
