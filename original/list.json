@@ -19,6 +19,16 @@
         "whendate" : "",
         "url" : "https://juhan3.github.io/exhibition/original/post01/post01.json",
         "youtubeurl" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/original/webtoon02/images/0.png",
+        "title" : "논퀴어",
+        "person": "하준",
+        "contents" : "",
+        "location" : "글", 
+        "whendate" : "",
+        "url" : "https://juhan3.github.io/exhibition/original/webtoon02/01.json",
+        "youtubeurl" : ""
         }
     ]
 }
