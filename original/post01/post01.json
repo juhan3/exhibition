@@ -1,19 +1,9 @@
 
 {"results" :
     [
-        {
-        "image" : "",
-        "title" : "1. 윤동주 -길",
-        "person": "",
-        "contents" : "",
-        "location" : "", 
-        "whendate" : "",
-        "url" : "https://juhan3.github.io/exhibition/original/post01/01.json",
-        "youtubeurl" : ""
-        },
       {
         "image" : "",
-        "title" : "2. 퀴어모아 컨텐츠 등록 안내",
+        "title" : "1. 퀴어모아 컨텐츠 등록 안내",
         "person": "",
         "contents" : "",
         "location" : "", 
@@ -23,7 +13,7 @@
         },
         {
         "image" : "",
-        "title" : "3. 향후 구현 예정 안내",
+        "title" : "2. 향후 구현 예정 안내",
         "person": "",
         "contents" : "",
         "location" : "", 
