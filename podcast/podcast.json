@@ -39,6 +39,16 @@
         "whendate" : "개설일 2020년 6월 5일",
         "url" : "https://www.podbbang.com/channels/1776372",
         "youtubeurl" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/podcast/images/05.png",
+        "title" : "퀴어 애즈 크로스",
+        "person": "",
+        "contents" : "교회 다니는 퀴어들이 퀴어크리스찬으로서의 삶에 대해 나누는 이야기!",
+        "location" : "", 
+        "whendate" : "개설일 2018.02.26",
+        "url" : "https://www.podbbang.com/channels/16062",
+        "youtubeurl" : ""
         }
     ]
 }
