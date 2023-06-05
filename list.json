@@ -9,8 +9,8 @@
         "whendate" : "2023. 4. 12 - 4. 16 \n *VIP & PRESS 프리뷰 관람 \n 4. 12 (수) 15:00 – 20:00 \n *일반관람 4. 13(목) – 15(토) 11:00 – 19:30  \n 4. 16(일) 11:00 – 17:00",
         "url" : "https://twitter.com/cxxt",
         "youtubeurl" : "",
-        "latitude": 37.5117,
-        "longitude": 127.0592
+        "latitude": "37.5117",
+        "longitude": "127.0592"
         },
          {
         "image" : "https://juhan3.github.io/exhibition/images/03.jpg",
@@ -21,8 +21,8 @@
         "whendate" : "Placemak BKK \n 2023.2.16-3.15 \n 10:00 - 18:00 * Closed on Sunday and Monday",
         "url" : "https://twitter.com/cxxt",
         "youtubeurl" : "",
-        "latitude": 13.7174,
-        "longitude": 100.5906
+        "latitude": "13.7174",
+        "longitude": "100.5906"
         },
         {
         "image" : "https://juhan3.github.io/exhibition/images/04.jpg",
@@ -33,8 +33,20 @@
         "whendate" : "기간: 2023.4.28(금) - 5.28(일)\n시간: 1시-7시(월요일 휴관)\n주최:합정지구",
         "url" : "https://twitter.com/salchingu",
         "youtubeurl" : "",
-        "latitude": 37.55290,
-        "longitude": 126.91248
+        "latitude": "37.55290",
+        "longitude": "126.91248"
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/images/05.jpg",
+        "title" : "Introducing the June Pride Month Commemorative Exhibition",
+        "person": "",
+        "contents" : "In the early hours of 28 June 1969, officers entered the Stonewall Inn in Greenwich Village, New York. The bar served as a haven for the city’s gay, lesbian and transgender communities amidst a series of police raids taking place across Manhattan. But, that June morning, something about Stonewall was different. The mounting tension finally erupted, sparking a riot that lasted several days and, ultimately, acted as a catalyst for LGBTQ+ liberation movements in the US and worldwide. Now, every year, the month of June is Pride Month – dedicated to honouring the history of Stonewall and foregrounding LGBTQ+ communities all around the world through parades and celebrations. Here are exhibitions and events to note in the UK, Europe and US, from photography shows and collection tours to day-long festivals and talks programmes.",
+        "location" : "UK, Europe and US", 
+        "whendate" : "",
+        "url" : "https://aestheticamagazine.com/pride-monthart-to-discover/",
+        "youtubeurl" : "",
+        "latitude": "37.55290",
+        "longitude": "126.91248"
         }
     ]
 }
