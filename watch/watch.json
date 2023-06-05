@@ -130,7 +130,17 @@
         "whendate" : "2013",
         "url" : "https://movie.daum.net/moviedb/main?movieId=79172",
         "youtubeurl" : "xnFg1e-jGMA"
-        }   
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/watch/images/14.jpg",
+        "title" : "파이어 아일랜드",
+        "person": "Directed Andrew Ahn",
+        "contents" : "출연 조엘 킴 부스터, 보웬양, 콘래드 리카모라, 마거릿 조\n\n퀴어들이 모이는 축제의 장소, 파이어 아일랜드에서 서로 만나서 사랑을 엮어가는 주인공들의 이야기를 담은 영화\n\n",
+        "location" : "Movie", 
+        "whendate" : "2022",
+        "url" : "https://movie.daum.net/moviedb/main?movieId=160125,
+        "youtubeurl" : "A0FzLCE_GnI"
+        }
            
     ]    
 }
