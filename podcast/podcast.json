@@ -79,6 +79,16 @@
         "whendate" : "개설일 2022.01.09",
         "url" : "https://litt.ly/country.queer.mice",
         "youtubeurl" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/podcast/images/09.PNG",
+        "title" : "문디가시나",
+        "person": "MOONDfamily",
+        "contents" : "퀴어팟캐스트 게이들의 수다, 문디 가시나입니다!\n\n",
+        "location" : "진행 어푸,때기,야레,금숙", 
+        "whendate" : "개설일 2022.02.08",
+        "url" : "https://podcasts.apple.com/us/podcast/%ED%80%B4%EC%96%B4-%EB%AC%B8%EB%94%94%EA%B0%80%EC%8B%9C%EB%82%98-%EC%8B%9C%EC%A6%8C5/id1387295521",
+        "youtubeurl" : ""
         }
     ]
 }
