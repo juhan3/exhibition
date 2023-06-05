@@ -99,26 +99,6 @@
         "whendate" : "2006",
         "url" : "https://movie.daum.net/moviedb/main?movieId=42447",
         "youtubeurl" : "AGDbkZW6v4w"
-        },
-        {
-        "image" : "https://juhan3.github.io/exhibition/watch/images/11.jpg",
-        "title" : "꿈의 제인",
-        "person": "감독 조현훈",
-        "contents" : "출연: 구교환, 이민지, 이주영 등\n\n혼자 남겨지는 것이 두려운 소녀 ‘소현’은 어떻게든 사람들과 어울리기 위해 매일 안간힘을 쓴다. 하지만 그런 ‘소현’을 받아주는 것은 ‘정호’ 오빠뿐이다. ‘정호’마저 소현을 떠나고 누구라도 자신을 찾아주길 바라던 어느 날, 꿈결처럼 미스터리한 여인 '제인'이 나타나고, 그날 이후 소현은 조금씩 ‘제인’과의 시시한 행복을 꿈꾸기 시작한다.\n\n",
-        "location" : "Movie", 
-        "whendate" : "2016",
-        "url" : "https://movie.daum.net/moviedb/main?movieId=106299",
-        "youtubeurl" : "w4VzbGGGJVE"
-        },
-        {
-        "image" : "https://juhan3.github.io/exhibition/watch/images/12.jpg",
-        "title" : "문라이트",
-        "person": "감독 배리 젠킨스",
-        "contents" : "출연: 트레반트 로즈, 안드레이 홀랜드, 자넬 모네, 애쉬튼 샌더스, 자럴 제롬, 나오미 해리스, 마허샬라 알리 등\n\n배리 젠킨스가 전작 멜랑콜리의 묘약 이후 8년만에 연출한 작품이다. 터렐 앨빈 맥크레이니의 희곡 '달빛 아래서 흑인 소년들은 파랗게 보인다(In Moonlight Black Boys Look Blue)'를 원작으로 한 영화. 흑인, 빈민, 동성애자 등 마이너리티의 총집합 같은 캐릭터를 다루기 때문에, 퀴어 영화라는 분류마저 이 영화의 일부 밖에 나타내지 못한다.마이애미를 배경으로 마약과의 전쟁이 한창인 1970~80년대에 태어난 한 아프리카계 미국인 샤이론의 생애를 어린 시절, 청소년기, 성인기 세 부분으로 나눠 묘사했다.\n\n",
-        "location" : "Movie", 
-        "whendate" : "2016",
-        "url" : "https://movie.daum.net/moviedb/main?movieId=105531",
-        "youtubeurl" : "9NJj12tJzqc"
-        }     
+        }    
     ]    
 }
