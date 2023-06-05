@@ -59,6 +59,16 @@
         "whendate" : "2023년 6월 1일",
         "url" : "https://apps.apple.com/app/queermoa/id6449648639",
         "youtubeurl" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/pride/images/07.png",
+        "title" : "등록/중단요",
+        "person": "",
+        "contents" : "임시적으로 등록/중단을 편리하게 하기 위해 구글폼을 등록해놓았습니다. 구글폼 특성상 로그인을 해야하며 이메일은 수집하지 않습니다. 하단 링크를 통해 작성해주세요.\n\n",
+        "location" : "퀴어모아", 
+        "whendate" : "2023년 6월 15",
+        "url" : "https://forms.gle/9LawzNnk23zUcvmA7",
+        "youtubeurl" : ""
         }
     ]
 }
