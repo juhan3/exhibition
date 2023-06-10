@@ -1,9 +1,19 @@
 
 {"results" :
-    [
+    [   
         {
         "image" : "",
-        "title" : "1. 향후 구현 예정 안내",
+        "title" : "1. 연재 또는 여러개 에피소드의 컨텐츠 등록 안내",
+        "person": "",
+        "contents" : "",
+        "location" : "", 
+        "whendate" : "",
+        "url" : "https://juhan3.github.io/exhibition/original/post01/01.json",
+        "youtubeurl" : ""
+        },
+        {
+        "image" : "",
+        "title" : "2. 향후 구현 예정 안내",
         "person": "",
         "contents" : "",
         "location" : "", 
