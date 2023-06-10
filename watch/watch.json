@@ -220,6 +220,26 @@
         "whendate" : "2013 출연 테일러 쉴링, 로라 프리폰, 케이트 멀그루, 제이슨 빅스, 우조 아두바 외",
         "url" : "https://www.netflix.com/title/70242311",
         "youtubeurl" : "vY0qzXi5oJg"
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/watch/images/24.jpg",
+        "title" : "Killing Eve (킬링 이브)",
+        "person": "프로그램 제작자: 피비 월러-브릿지",
+        "contents" : "정보 기관에 의해 모집되는 것은 이브를 암살자 빌라넬의 직접적인 길로 인도한다. 임무는 그녀를 죽이는 것이지만, 두 여성은 이상하게 서로에게 끌리는 것을 발견한다.\n\n",
+        "location" : "Drama", 
+        "whendate" : "2018 출연 조디 코머,산드라 오,피오나 쇼,킴 보드니아,오웬 맥도넬, 카미유 코틴",
+        "url" : "https://www.justwatch.com/kr/TV-프로그램/kilring-ibeu",
+        "youtubeurl" : "-MBjBavIC9U"
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/watch/images/25.jpg",
+        "title" : "One Day at a Time (원 데이 앳 어 타임)",
+        "person": "제작사 넷플릭스",
+        "contents" : "미국 시트콤의 고전을 리메이크했다. 고등학생 딸과 초등학생 아들을 친정 엄마의 도움 아닌 도움으로 키워가는 쿠바계 열혈 싱글맘, 그녀의 하루하루를 담았다.\n\n",
+        "location" : "Drama", 
+        "whendate" : "2019 출연 저스티나 마차도,리타 모레노,토드그리넬, 등",
+        "url" : "https://www.netflix.com/title/80095532",
+        "youtubeurl" : "ZOA_EvRvqJU"
         }
     ]    
 }
