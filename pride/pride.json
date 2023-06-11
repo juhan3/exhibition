@@ -55,7 +55,7 @@
         "title" : "등록/중단요청",
         "person": "",
         "contents" : "임시적으로 등록/중단을 편리하게 하기 위해 구글폼을 등록해놓았습니다. 구글폼 특성상 로그인을 해야하며 이메일은 수집하지 않습니다. 하단 링크를 통해 작성해주세요.\n\n",
-        "location" : "퀴어모아", 
+        "location" : "Queermoa", 
         "whendate" : "2023년 6월 5일",
         "url" : "https://forms.gle/9LawzNnk23zUcvmA7",
         "youtubeurl" : ""
@@ -65,7 +65,7 @@
         "title" : "RightNow",
         "person": "",
         "contents" : "예전에 프라이드페어에 나갈때 Rightnow 프로젝트를 만들어서 뱃지등을 제작한적이 있습니다. 큰 행동도 좋지만 지금 당장 할수 있는 작은일을 찾아 해내가는것이 모이면 큰 영향이 될수도 있다는 생각에서 였습니다. 아카이브를 만들고 이 이카이브를 좀더 어떻게 활용해야 좋을지 고민하다가 카메라 기능을 넣어 이와같은 의미로 추가했습니다. 앞으로 좀더 편리하게 이용할 수 있는 아카이브를 만들도록 하겠습니다. 감사합니다.\n\n",
-        "location" : "퀴어모아", 
+        "location" : "Queermoa", 
         "whendate" : "2023년 6월 6일",
         "url" : "https://forms.gle/9LawzNnk23zUcvmA7",
         "youtubeurl" : ""
@@ -128,6 +128,16 @@
         "location" : "단체소개", 
         "whendate" : "",
         "url" : "https://www.pflagkorea.org",
+        "youtubeurl" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/pride/images/15.png",
+        "title" : "I'm an Ally",
+        "person": "",
+        "contents" : "cheer and support\n\n",
+        "location" : "Queermoa", 
+        "whendate" : "",
+        "url" : "",
         "youtubeurl" : ""
         }
     ]
