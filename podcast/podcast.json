@@ -50,16 +50,6 @@
         "url" : "https://podcasts.apple.com/us/podcast/%ED%80%B4%EC%96%B4-%EB%AC%B8%EB%94%94%EA%B0%80%EC%8B%9C%EB%82%98-%EC%8B%9C%EC%A6%8C5/id1387295521",
         "youtubeurl" : ""
         },
-        {
-        "image" : "https://juhan3.github.io/exhibition/podcast/images/01.png",
-        "title" : "게이PC방",
-        "person": "Team GPCR.",
-        "contents" : "일상을 살아가는 퀴어들의 랜선 놀이터! 페미니즘을 비롯하여 소수자 차별 및 각종 고정관념에 관한 이슈 등을 게이들의 시선으로 다루는 방송입니다.\n카테고리:교양",
-        "location" : "진행: 삼식,이지금,한나 \n 제작: Team GPCR", 
-        "whendate" : "개설일 2018년 4월 9일",
-        "url" : "https://podcasts.apple.com/us/podcast/%EA%B2%8C%EC%9D%B4pc%EB%B0%A9/id1369706945",
-        "youtubeurl" : ""
-        },
          {
         "image" : "https://juhan3.github.io/exhibition/podcast/images/02.jpg",
         "title" : "여섯 빛깔 무지개",
@@ -188,6 +178,16 @@
         "location" : "진행 마담,제제,지음,세이아니고헤이", 
         "whendate" : "개설일 2023.03.03",
         "url" : "https://www.podbbang.com/channels/1783548",
+        "youtubeurl" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/podcast/images/01.png",
+        "title" : "게이PC방",
+        "person": "Team GPCR.",
+        "contents" : "일상을 살아가는 퀴어들의 랜선 놀이터! 페미니즘을 비롯하여 소수자 차별 및 각종 고정관념에 관한 이슈 등을 게이들의 시선으로 다루는 방송입니다.\n카테고리:교양",
+        "location" : "진행: 삼식,이지금,한나 \n 제작: Team GPCR", 
+        "whendate" : "개설일 2018년 4월 9일",
+        "url" : "https://podcasts.apple.com/us/podcast/%EA%B2%8C%EC%9D%B4pc%EB%B0%A9/id1369706945",
         "youtubeurl" : ""
         },
         {
