@@ -111,6 +111,16 @@
         "youtubeurl" : ""
         },
         {
+        "image" : "https://juhan3.github.io/exhibition/podcast/images/17.png",
+        "title" : "생방송 여자가 좋다",
+        "person": "제작 생방여",
+        "contents" : "퀴어 문화 기획자 / 드랙 퍼포머 금개와 아장맨이 진행하는 생생한 여자 사랑 교양 방송! (생방송이 아닙니다) ",
+        "location" : "진행 금개,아장맨", 
+        "whendate" : "개설일 2022.02.21",
+        "url" : "https://podcasts.apple.com/us/podcast/%EC%83%9D%EB%B0%A9%EC%86%A1-%EC%97%AC%EC%9E%90%EA%B0%80-%EC%A2%8B%EB%8B%A4/id1611135202?l=ko",
+        "youtubeurl" : ""
+        },
+        {
         "image" : "https://juhan3.github.io/exhibition/podcast/images/07.png",
         "title" : "우리들의 무지개, 퀴어서점",
         "person": "제작 광주시민방송,퀴어서점",
