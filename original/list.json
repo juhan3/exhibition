@@ -9,6 +9,16 @@
         "whendate" : "",
         "url" : "https://juhan3.github.io/exhibition/original/post01/post01.json",
         "youtubeurl" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/original/post02/images/1.png",
+        "title" : "게이어리",
+        "person": "하준",
+        "contents" : "",
+        "location" : "Post", 
+        "whendate" : "",
+        "url" : "https://juhan3.github.io/exhibition/original/post02/post01.json",
+        "youtubeurl" : ""
         }
     ]
 }
