@@ -71,6 +71,16 @@
         "youtubeurl" : ""
         },
         {
+        "image" : "https://juhan3.github.io/exhibition/podcast/images/13.png",
+        "title" : "고품격 퀴어라디오 아모말살롱(큐토피아 팟캐스트)",
+        "person": "",
+        "contents" : "퀴어유튜브채널 큐토피아에서 보내드리는 퀴어 팟캐스트입니다. 성소수자가 아닌 사람과 별반 다르지 않은 성소수자들의 라이프에 대해 다양한 주제를 통해 얘기하는 방송",
+        "location" : "", 
+        "whendate" : "개설일 2018.02.20",
+        "url" : "https://www.podbbang.com/channels/16025/",
+        "youtubeurl" : ""
+        },
+        {
         "image" : "https://juhan3.github.io/exhibition/podcast/images/06.png",
         "title" : "페어북 ; 페미니스트 퀴어 북클럽",
         "person": "",
@@ -78,6 +88,26 @@
         "location" : "진행 라일라,정한새,페페", 
         "whendate" : "개설일 2019.03.15",
         "url" : "https://podcasts.apple.com/us/podcast/%ED%8E%98%EC%96%B4%EB%B6%81-%ED%8E%98%EB%AF%B8%EB%8B%88%EC%8A%A4%ED%8A%B8-%ED%80%B4%EC%96%B4-%EB%B6%81%ED%81%B4%EB%9F%BD/id1456624500",
+        "youtubeurl" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/podcast/images/12.png",
+        "title" : "트랜스젠더퀴어 방송 젠더여행자",
+        "person": "제작 여행자",
+        "contents" : "성별이분법에 저항하는 사람들의 모임 〈여행자〉의 본격 트랜스젠더퀴어 방송입니다. 성별 이분법 체계를 넘어서는 삶에 대한 이야기를 합니다.",
+        "location" : "진행 정숙조신,태로", 
+        "whendate" : "개설일 2018.03.14",
+        "url" : "https://podcasts.apple.com/us/podcast/%ED%8A%B8%EB%9E%9C%EC%8A%A4%EC%A0%A0%EB%8D%94%ED%80%B4%EC%96%B4-%EB%B0%A9%EC%86%A1-%EC%A0%A0%EB%8D%94%EC%97%AC%ED%96%89%EC%9E%90/id1358999780?l=ko",
+        "youtubeurl" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/podcast/images/11.png",
+        "title" : "퀴어방송",
+        "person": "",
+        "contents" : "퀴어,이반,LGBT,레즈비언,게이,바이,트랜스,성소수자를 위하려고 노력하는 방송",
+        "location" : "퀴어방송", 
+        "whendate" : "개설일 2013.02.12",
+        "url" : "https://podcasts.apple.com/us/podcast/%ED%80%B4%EC%96%B4%EB%B0%A9%EC%86%A1/id601934252?l=ko",
         "youtubeurl" : ""
         },
         {
@@ -98,6 +128,16 @@
         "location" : "진행 쥐야다,쥐읒", 
         "whendate" : "개설일 2022.01.09",
         "url" : "https://litt.ly/country.queer.mice",
+        "youtubeurl" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/podcast/images/14.png",
+        "title" : "레주파의 L양장점 (2023년~)",
+        "person": "제작 마포fm,L양장점,레주파,lezpa",
+        "contents" : "레주파(LEZPA)가 제작하는 퀴어 맞춤 라디오 방송 L양장점\n\n",
+        "location" : "진행 루나,하레,하나,한울,태,숑숑", 
+        "whendate" : "개설일 2023.03.03",
+        "url" : "https://podcasts.apple.com/us/podcast/%EB%A0%88%EC%A3%BC%ED%8C%8C%EC%9D%98-l%EC%96%91%EC%9E%A5%EC%A0%90-2023%EB%85%84/id1684113603?l=ko",
         "youtubeurl" : ""
         }
     ]
