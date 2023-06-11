@@ -1,9 +1,39 @@
 {"results" :
     [   
         {
+        "image" : "https://juhan3.github.io/exhibition/podcast/images/18.png",
+        "title" : "드립전문 커피집",
+        "person": "제작 드립전문 커피집",
+        "contents" : "레즈비언 셋이서 진행하는 품격없는 라디오.\n\n",
+        "location" : "", 
+        "whendate" : "개설일 2013.10.08",
+        "url" : "https://podcasts.apple.com/us/podcast/%EB%93%9C%EB%A6%BD%EC%A0%84%EB%AC%B8-%EC%BB%A4%ED%94%BC%EC%A7%91/id721591643?l=ko",
+        "youtubeurl" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/podcast/images/19.png",
+        "title" : "행복한 무지개반",
+        "person": "제작 LOM77",
+        "contents" : "L(esbian)G(ay)B(isexsual)T(ransgender) 외 여러 성소수자 학생들이 꾸려가는 행복한 무지개반\n\n",
+        "location" : "", 
+        "whendate" : "개설일 2015.11.16",
+        "url" : "https://www.podbbang.com/channels/10517/info",
+        "youtubeurl" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/podcast/images/20.png",
+        "title" : "씨노 온 더 레코드",
+        "person": "제작 씨네마의 노예들",
+        "contents" : "여성 성소수자 영화 모임 씨네마의 노예들의 영화 잡썰 팟캐스트\n\n",
+        "location" : "", 
+        "whendate" : "개설일 2015.07.10",
+        "url" : "https://podcasts.apple.com/us/podcast/%EC%94%A8%EB%85%B8-%EC%98%A8-%EB%8D%94-%EB%A0%88%EC%BD%94%EB%93%9C/id1018721510?l=ko",
+        "youtubeurl" : ""
+        },
+        {
         "image" : "https://juhan3.github.io/exhibition/podcast/images/10.png",
         "title" : "휴게이소",
-        "person": "휴게이소",
+        "person": "제작 휴게이소",
         "contents" : "일반인코스프레 하느라 힘들었던 우리, 무장해제하고 이쪽친구들과 휴게이소에서 같이 열심히 쉬어보아요.20~40대를 위한 본격 퀴어방송\n\n",
         "location" : "진행 디아", 
         "whendate" : "개설일 2017.09.22",
@@ -13,7 +43,7 @@
         {
         "image" : "https://juhan3.github.io/exhibition/podcast/images/09.PNG",
         "title" : "문디가시나",
-        "person": "MOONDfamily",
+        "person": "제작 MOONDfamily",
         "contents" : "퀴어팟캐스트 게이들의 수다, 문디 가시나입니다!\n\n",
         "location" : "진행 어푸,때기,야레,금숙", 
         "whendate" : "개설일 2022.02.08",
