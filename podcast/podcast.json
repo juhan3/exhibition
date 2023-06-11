@@ -139,6 +139,26 @@
         "whendate" : "개설일 2023.03.03",
         "url" : "https://podcasts.apple.com/us/podcast/%EB%A0%88%EC%A3%BC%ED%8C%8C%EC%9D%98-l%EC%96%91%EC%9E%A5%EC%A0%90-2023%EB%85%84/id1684113603?l=ko",
         "youtubeurl" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/podcast/images/15.png",
+        "title" : "(레즈비언들이 손수 빻는)무지개방앗간",
+        "person": "",
+        "contents" : "어서오세요~! 여성퀴어들이 오손도손 수다떠는 무지개 방앗간 입니다~ 레즈비언들의 수다회를 가장한 아무말 대잔치!\n\n",
+        "location" : "진행 마담,제제,지음,세이아니고헤이", 
+        "whendate" : "개설일 2023.03.03",
+        "url" : "https://www.podbbang.com/channels/1783548",
+        "youtubeurl" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/podcast/images/16.png",
+        "title" : "[채널] 게나무숲",
+        "person": "제작 게나무숲",
+        "contents" : "채널 게나무숲은 게이들의 일상, 문화를 공유하는 공간입니다. 그리고 게이들의 다양한 이야기가 함께하는 시간입니다.\n\n",
+        "location" : "진행 도연,몽키,터가,도리꼬,엄정화", 
+        "whendate" : "개설일 2017.04.10",
+        "url" : "https://podcasts.apple.com/us/podcast/%EC%B1%84%EB%84%90-%EA%B2%8C%EB%82%98%EB%AC%B4%EC%88%B2/id1224940186?l=ko",
+        "youtubeurl" : ""
         }
     ]
 }
