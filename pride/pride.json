@@ -91,6 +91,26 @@
         "youtubeurl" : "K4fV9oJVo74"
         },
         {
+        "image" : "https://juhan3.github.io/exhibition/pride/images/15.png",
+        "title" : "I'm an Ally",
+        "person": "",
+        "contents" : "📷\ncheer and support\n\n",
+        "location" : "Queermoa", 
+        "whendate" : "",
+        "url" : "https://www.ildaro.com/7701",
+        "youtubeurl" : "E5D4xml5-24"
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/pride/images/16.png",
+        "title" : "LOVE MY SELF",
+        "person": "",
+        "contents" : "📷\nLove yourself and overflowingly love others too\n\n",
+        "location" : "Queermoa", 
+        "whendate" : "",
+        "url" : "",
+        "youtubeurl" : ""
+        },
+        {
         "image" : "https://juhan3.github.io/exhibition/pride/images/11.png",
         "title" : "청소년 성소수자 위기지원센터 띵동",
         "person": "",
@@ -128,26 +148,6 @@
         "location" : "단체소개", 
         "whendate" : "",
         "url" : "https://www.pflagkorea.org",
-        "youtubeurl" : ""
-        },
-        {
-        "image" : "https://juhan3.github.io/exhibition/pride/images/15.png",
-        "title" : "I'm an Ally",
-        "person": "",
-        "contents" : "📷\ncheer and support\n\n",
-        "location" : "Queermoa", 
-        "whendate" : "",
-        "url" : "https://www.ildaro.com/7701",
-        "youtubeurl" : "E5D4xml5-24"
-        },
-        {
-        "image" : "https://juhan3.github.io/exhibition/pride/images/16.png",
-        "title" : "LOVE MY SELF",
-        "person": "",
-        "contents" : "📷\nLove yourself and overflowingly love others too\n\n",
-        "location" : "Queermoa", 
-        "whendate" : "",
-        "url" : "",
         "youtubeurl" : ""
         }
     ]
