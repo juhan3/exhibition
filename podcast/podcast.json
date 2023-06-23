@@ -209,6 +209,16 @@
         "whendate" : "개설일 2021.06.12",
         "url" : "https://podcasts.apple.com/us/podcast/%EB%B9%84%EC%A3%BC%EB%A5%98%EB%B0%B1%ED%99%94%EC%A0%90/id1572250500?l=ko",
         "youtubeurl" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/podcast/images/22.png",
+        "title" : "LGBT Outdoors Podcast",
+        "person": "",
+        "contents" : "On this episode, we get to chat with legendary road tripper, National Park System aficionado, and determined advocate for the LGBTQ+ community, Mikah Meyer.\n\nHe visited every one of thesites under the National Park System on what can only be described as an epic adventure.\n\nHost Justin Yoder and co-hosts Patrick Thompson and JC Rienton chat with Mikah about his road tip origins, the power and importance of corporate Pride, and a simple-but-meaningful way to be an advocate for the queer community out on the trails.\n\n",
+        "location" : "Mikah Meyer", 
+        "whendate" : "개설일 2021.06.12",
+        "url" : "https://podcasts.apple.com/us/podcast/lgbt-outdoors-podcast/id1665478717?i=1000616636276",
+        "youtubeurl" : ""
         }
     ]
 }
