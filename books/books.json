@@ -130,6 +130,16 @@
         "whendate" : "2013.10.25",
         "url" : "https://search.shopping.naver.com/book/catalog/32489403869",
         "youtubeurl" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/books/images/15.jpg",
+        "title" : "탈출",
+        "person" : "그린북",
+        "contents" : "우리는 가짜 세상에서 탈출한다! 지구인들이 나아갈 탈출구를 정확히 가리키는 여성 서사 SF 단편선\n\n",
+        "location" : "저자 남유하 , 조규미 , 김명 , 한수언 , 최상아", 
+        "whendate" : "2022.06.07",
+        "url" : "https://product.kyobobook.co.kr/detail/S000061350987",
+        "youtubeurl" : ""
         }
     ]
 }
