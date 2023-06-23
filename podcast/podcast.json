@@ -199,6 +199,16 @@
         "whendate" : "개설일 2017.04.10",
         "url" : "https://podcasts.apple.com/us/podcast/%EC%B1%84%EB%84%90-%EA%B2%8C%EB%82%98%EB%AC%B4%EC%88%B2/id1224940186?l=ko",
         "youtubeurl" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/podcast/images/21.png",
+        "title" : "비주류백화",
+        "person": "제작 우니,코젤,메이",
+        "contents" : "왜 좋지? 왜 싫지? 그냥 넘겨버렸던 대중문화의 요모조모를 이야기합니다. 영화/드라마, 시사, 트렌드까지! \n비주류백화점의 고객님이 되어주세요~\n\n",
+        "location" : "진행 우니,코젤,메이", 
+        "whendate" : "개설일 2021.06.12",
+        "url" : "https://podcasts.apple.com/us/podcast/%EB%B9%84%EC%A3%BC%EB%A5%98%EB%B0%B1%ED%99%94%EC%A0%90/id1572250500?l=ko",
+        "youtubeurl" : ""
         }
     ]
 }
