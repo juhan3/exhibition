@@ -2,6 +2,9 @@
     [
         {
         "image" : "https://juhan3.github.io/exhibition/original/ready2.png",
+        "person": "",
+        "location" : "", 
+        "whendate" : "",
         "contents" : "\n6월1일 2023년\n \n앱과 별개로 등록시 게시중단 등을 쉽고 편하게 하기 위해 구글폼을 제작중입니다. \n\n업데이트 방향\n1.게시물 즐겨찾기 기능\n인증 카메라 또는 연재 게시물을 사용자가 즐겨찾기하여 접근이 쉽도록 합니다.\n\n2.유투브 전체화면\n\n3.인증 카메라 커스텀(텍스트위치,빼기,넣기)\n\n4.관심영역에 대한 새글 알림\n\n"
         }
     ]
