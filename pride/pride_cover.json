@@ -19,6 +19,16 @@
         "whendate" : "",
         "url" : "https://www.netflix.com/title/81611729",
         "youtubeurl" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/pride/images/20.png",
+        "title" : "",
+        "person": "",
+        "contents" : "",
+        "location" : "", 
+        "whendate" : "",
+        "url" : "https://www.census.gov/newsroom/stories/lgbt-pride-month.html",
+        "youtubeurl" : ""
         }
     ]
 }
