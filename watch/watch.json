@@ -783,13 +783,23 @@
         },
         {
         "image" : "https://juhan3.github.io/exhibition/watch/images/79.jpg",
-        "title" : "영원한 여",
+        "title" : "영원한 여름",
         "person": "Director Leste Chen",
         "contents" : "두 명의 가장 친한 친구인 셰인과 조나단은 끊임없이 진화하는 섹슈얼리티를 통해 자신에 대해 더 많이 알게 됩니다.\n\nTwo best friends Shane and Jonathan learn more about themselves in an ever evolving sexuality.\n\n",
         "location" : "Movie", 
         "whendate" : "2006 cast Hsiao-chuan, ChangRay Chang, Kate Yeung",
         "url" : "https://www.imdb.com/title/tt0885520/",
         "youtubeurl" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/watch/images/80.jpg",
+        "title" : "패왕별희(Ba wang bie ji)",
+        "person": "Director Kaige Chen",
+        "contents" : "두 소년은 1924년 북경의 한 오페라 훈련 학교에서 만납니다. 그 결과 그들의 우정은 거의 70년 동안 지속될 것이며 중국 역사상 가장 어려운 시기를 견뎌낼 것입니다.\n\nTwo boys meet at an opera training school in Peking in 1924. Their resulting friendship will span nearly 70 years and will endure some of the most troublesome times in China's history.\n\n",
+        "location" : "Movie", 
+        "whendate" : "1993 cast Leslie Cheung, Fengyi Zhang, Gong Li",
+        "url" : "https://www.imdb.com/title/tt0106332/",
+        "youtubeurl" : "O6GI7YSZGVA"
         }
     ]    
 }
