@@ -630,6 +630,16 @@
         "whendate" : "2023",
         "url" : "https://www.wavve.com/player/vod?programid=C9901_C99000000091&autoplay=y",
         "youtubeurl" : "v9kIg0XftuA"
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/watch/images/64.jpg",
+        "title" : "I Care a Lot",
+        "person": "Director J Blakeson",
+        "contents" : "연로한 병동의 돈을 탕진하는 비뚤어진 법적 보호자는 사기를 치려던 여자가 처음 등장한 것보다 더 많은 것으로 드러나자 그녀의 짝을 만난다.\n\nA crooked legal guardian who drains the savings of her elderly wards meets her match when a woman she tries to swindle turns out to be more than she first appears.\n\n",
+        "location" : "Movie", 
+        "whendate" : "2020 cast Rosamund Pike, Peter Dinklage, Eiza González",
+        "url" : "https://www.imdb.com/title/tt9893250/",
+        "youtubeurl" : "lXrnUzP5Su0"
         }
     ]    
 }
