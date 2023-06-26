@@ -219,6 +219,16 @@
         "whendate" : "",
         "url" : "https://podcasts.apple.com/us/podcast/lgbt-outdoors-podcast/id1665478717",
         "youtubeurl" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/podcast/images/23.png",
+        "title" : "게성시대",
+        "person": "",
+        "contents" : "기꼬와 도리꼬가 개성넘치는 게이들을 만나보고 함께 이야기해보는 시간 게성시대입니다.\n\nIt is Geseong era, a time for Kiko and Doriko to meet and talk with gay people full of personality.\n\n",
+        "location" : "진행 기꼬 도리꼬", 
+        "whendate" : "개설일 2015.09.07",
+        "url" : "https://podcasts.apple.com/us/podcast/%EA%B2%8C%EC%84%B1%EC%8B%9C%EB%8C%80/id1062179099",
+        "youtubeurl" : ""
         }
     ]
 }
