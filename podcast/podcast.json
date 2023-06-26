@@ -229,6 +229,16 @@
         "whendate" : "개설일 2015.09.07",
         "url" : "https://podcasts.apple.com/us/podcast/%EA%B2%8C%EC%84%B1%EC%8B%9C%EB%8C%80/id1062179099",
         "youtubeurl" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/podcast/images/24.png",
+        "title" : "이상한 나나의 대장",
+        "person": "",
+        "contents" : "퀴어1, 이성애자1 둘이서 별 얘기 다하는 수다파티☆★\n\n",
+        "location" : "진행 대장과 나나제작 이나대", 
+        "whendate" : "개설일 2021.12.31",
+        "url" : "https://app.podbbang.com/ch/1783016",
+        "youtubeurl" : ""
         }
     ]
 }
