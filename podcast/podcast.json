@@ -229,6 +229,16 @@
         "whendate" : "개설일 2015.09.07",
         "url" : "https://podcasts.apple.com/us/podcast/%EA%B2%8C%EC%84%B1%EC%8B%9C%EB%8C%80/id1062179099",
         "youtubeurl" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/podcast/images/25.PNG",
+        "title" : "게이라디오쇼S",
+        "person": "제작 게라쇼",
+        "contents" : "깊이가 있는 재미\n\n",
+        "location" : "진행 영철,라한,앤드류,원하,거마,플럼,제이크", 
+        "whendate" : "개설일 2019.01.28",
+        "url" : "https://podcasts.apple.com/us/podcast/%EA%B2%8C%EC%9D%B4%EB%9D%BC%EB%94%94%EC%98%A4%EC%87%BCs/id1471628697?l=ko",
+        "youtubeurl" : ""
         }
     ]
 }
