@@ -5,7 +5,7 @@
         "title" : "서비스 기록/공지",
         "person": "퀴어모아",
         "contents" : "",
-        "location" : "퀴어모아/글", 
+        "location" : "퀴어모아/write", 
         "whendate" : "",
         "url" : "https://juhan3.github.io/exhibition/original/post01/post01.json",
         "youtubeurl" : ""
@@ -15,7 +15,7 @@
         "title" : "게이어리",
         "person": "하준",
         "contents" : "",
-        "location" : "하준/글", 
+        "location" : "Hajun/write", 
         "whendate" : "",
         "url" : "https://juhan3.github.io/exhibition/original/post02/post01.json",
         "youtubeurl" : ""
