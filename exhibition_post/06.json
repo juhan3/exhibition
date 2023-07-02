@@ -1,13 +1,13 @@
 {"results" :
     [
         {
-        "image" : "https://juhan3.github.io/exhibition/pride/images/07.png",
-        "title" : "등록/중단요청",
-        "person": "",
-        "contents" : "임시적으로 등록/중단을 편리하게 하기 위해 구글폼을 등록해놓았습니다. 구글폼 특성상 로그인을 해야하며 이메일은 수집하지 않습니다. 하단 링크를 통해 작성해주세요. 또는 메인화면 상단 우측 점3개 메뉴를 통해 동일한 링크로 요청할 수 있습니다.\n\n",
-        "location" : "Queermoa", 
-        "whendate" : "2023년 6월 5일",
-        "url" : "https://forms.gle/9LawzNnk23zUcvmA7",
+        "image" : "https://juhan3.github.io/exhibition/images/08.jpg",
+        "title" : "Dew Kim’s solo exhibition, I Surrender",
+        "person": "Dew Kim",
+        "contents" : "베리어스 스몰 파이어스는 듀킴의 개인전 《I Surrender》를 개최한다. 본 전시는 VSF 서울에서 열리는 그의 첫 번째 개인전으로 일곱 점의 설치 작업으로 이루어져 있다. 듀킴은 설치, 퍼포먼스, 미디어 아트를 통해 섹슈얼리티, 퀴어, 종교의 문제를 다룬다. 이번 전시에서 듀킴은 자신의 기독교적 성장배경과 퀴어 정체성의 결합 속에서 지속적인 탐구를 통해 찾은 종교적 관습, 기독교 도상학, 그리고 BDSM의 개념적 유사점을 다양한 조형적 언어로 풀어낸다.\n\n",
+        "location" : "서울 용산구 독서당로 79 (한남동)", 
+        "whendate" : "2023-04-29 ~ 2023-06-10",
+        "url" : "http://www.vsf.la",
         "youtubeurl" : ""
         }
     ]
