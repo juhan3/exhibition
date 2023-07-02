@@ -8,7 +8,7 @@
         "location" : "아르코미술관 1, 2전시실", 
         "whendate" : "2022-05-19 ~ 2022-07-17",
         "url" : "https://juhan3.github.io/exhibition/exhibition_post/01.json",
-        "youtubeurl" : "gPYlaYM3Bqs"
+        "youtubeurl" : ""
         },
         {
         "image" : "https://juhan3.github.io/exhibition/images/07.jpg",
@@ -18,7 +18,7 @@
         "location" : "더줌아트센터", 
         "whendate" : "2023-01-13 ~ 2023-01-29",
         "url" : "https://juhan3.github.io/exhibition/exhibition_post/02.json",
-        "youtubeurl" : "H-2FW9Etirk"
+        "youtubeurl" : ""
         },
         {
         "image" : "https://juhan3.github.io/exhibition/images/02.jpg",
@@ -154,7 +154,7 @@
         "location" : "수원시립미술관", 
         "whendate" : "2023-04-18 ~ 2023-08-20",
         "url" : "https://juhan3.github.io/exhibition/exhibition_post/15.json",
-        "youtubeurl" : "e0zI_cwpnOg"
+        "youtubeurl" : ""
         },
         {
         "image" : "https://juhan3.github.io/exhibition/images/12.jpg",
@@ -164,7 +164,7 @@
         "location" : "국립현대미술관 서울 지하1층, 2, 3, 4전시실 및 서울박스", 
         "whendate" : "2023-05-12 ~ 2023-09-10",
         "url" : "https://juhan3.github.io/exhibition/exhibition_post/16.json",
-        "youtubeurl" : "jC-HoL8eSao"
+        "youtubeurl" : ""
         },
         {
         "image" : "https://juhan3.github.io/exhibition/images/06.jpg",
@@ -174,7 +174,7 @@
         "location" : "국립정동극장", 
         "whendate" : "2023-07-06 ~ 2023-07-21 ",
         "url" : "https://juhan3.github.io/exhibition/exhibition_post/17.json",
-        "youtubeurl" : "NOpvfYDOqgg"
+        "youtubeurl" : ""
         }
     ]
 }
