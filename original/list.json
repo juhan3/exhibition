@@ -19,16 +19,6 @@
         "whendate" : "",
         "url" : "https://juhan3.github.io/exhibition/original/post02/post01.json",
         "youtubeurl" : ""
-        },
-        {
-        "image" : "https://juhan3.github.io/exhibition/original/post03/images/1.png",
-        "title" : "QMENT",
-        "person": "Hajun",
-        "contents" : "",
-        "location" : "Hajun/Artwork", 
-        "whendate" : "",
-        "url" : "https://juhan3.github.io/exhibition/original/post03/post01.json",
-        "youtubeurl" : ""
         }
     ]
 }
