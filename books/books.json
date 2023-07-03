@@ -180,6 +180,16 @@
         "whendate" : "2021년 04월 09일",
         "url" : "https://www.yes24.com/Product/Goods/99122360",
         "youtubeurl" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/books/images/20.jpeg",
+        "title" : "나는 왜 이렇게 웃긴가",
+        "person" : "이야기장수",
+        "contents" : "사람들은 이반지하를 보고 웃는다.이반지하는 사람들을 보고 더 크게 웃는다.\n\n",
+        "location" : "저자 이반지하", 
+        "whendate" : "2023년 05월 17일",
+        "url" : "https://www.yes24.com/Product/Goods/118919565",
+        "youtubeurl" : "ts4lFI84SDE"
         }
     ]
 }
