@@ -251,6 +251,16 @@
         "youtubeurl" : ""
         },
         {
+        "image" : "https://juhan3.github.io/exhibition/pride/images/31.png",
+        "title" : "노프라이드2023",
+        "person": "",
+        "contents" : "\n\n",
+        "location" : "노프라이드", 
+        "whendate" : "2023 07 01",
+        "url" : "https://juhan3.github.io/exhibition/pride/post/27.json",
+        "youtubeurl" : ""
+        },
+        {
         "image" : "https://juhan3.github.io/exhibition/pride/images/30.jpg",
         "title" : "썸머프라이드시네마2023",
         "person": "",
