@@ -23,7 +23,7 @@
         {
         "image" : "",
         "title" : "전시 상세",
-        "person": "",
+        "person": " ",
         "contents" : "",
         "location" : "", 
         "whendate" : "",
@@ -33,7 +33,7 @@
         {
         "image" : "",
         "title" : "지도 위치",
-        "person": "",
+        "person": " ",
         "contents" : "",
         "location" : "", 
         "whendate" : "",
