@@ -289,6 +289,16 @@
         "whendate" : "2023 07 05",
         "url" : "https://juhan3.github.io/exhibition/pride/post/29.json",
         "youtubeurl" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/pride/images/34.jpg",
+        "title" : "인천퀴어문화축제",
+        "person": "",
+        "contents" : "\n\n",
+        "location" : "행사", 
+        "whendate" : "2023 09 09",
+        "url" : "https://juhan3.github.io/exhibition/pride/post/30.json",
+        "youtubeurl" : ""
         }
     ]
 }
