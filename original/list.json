@@ -2,12 +2,22 @@
     [   
         {
         "image" : "https://juhan3.github.io/exhibition/original/ready2.gif",
-        "title" : "서비스 기록/공지",
+        "title" : "post_beta1",
         "person": "퀴어모아",
         "contents" : "",
         "location" : "퀴어모아/write", 
         "whendate" : "",
-        "url" : "https://juhan3.github.io/exhibition/original/post01/post01.json",
+        "url" : "https://juhan3.github.io/exhibition/original/post01/01.json",
+        "youtubeurl" : ""
+        },
+        {
+        "image" : "https://juhan3.github.io/exhibition/original/ready2.gif",
+        "title" : "post_beta2",
+        "person": "퀴어모아",
+        "contents" : "",
+        "location" : "퀴어모아/write", 
+        "whendate" : "",
+        "url" : "https://juhan3.github.io/exhibition/original/post01/02.json",
         "youtubeurl" : ""
         }
     ]
