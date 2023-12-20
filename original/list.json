@@ -9,16 +9,6 @@
         "whendate" : "",
         "url" : "https://juhan3.github.io/exhibition/original/post01/01.json",
         "youtubeurl" : ""
-        },
-        {
-        "image" : "https://juhan3.github.io/exhibition/original/post01/images/2.png",
-        "title" : "post_beta2",
-        "person": "퀴어모아",
-        "contents" : "",
-        "location" : "퀴어모아/write", 
-        "whendate" : "",
-        "url" : "https://juhan3.github.io/exhibition/original/post01/02.json",
-        "youtubeurl" : ""
         }
     ]
 }
