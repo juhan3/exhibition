@@ -1,11 +1,24 @@
 {"results" :
     [
+       {
+        "image" : "https://juhan3.github.io/exhibition/pride/images/02.png",
+        "title" : "서울퀴어문화축제",
+        "person": "",
+        "contents" : "서울퀴어문화축제(Seoul Queer Culture Festival, SQCF)는\n\n성적지향과 성별정체성을 비롯한 다양한 정체성을 가진 모든 사람들이 평등하게 어우러져 즐기는 장을 만드는 것”을 비전으로 삼아 매해 여름 서울에서 개최되는 복합/공개/문화행사입니다.2000년, 퀴어문화축제-무지개2000라는 명칭으로 첫 회를 개최한 이후 퀴어문화축제-무지개OOOO, 퀴어문화축제라는 명칭을 거쳐 2018년 서울퀴어문화축제로 명칭을 변경한 뒤 지금까지 이어지고 있습니다.주요 행사로는 서울퀴어퍼레이드, 한국퀴어영화제가 있으며, 이외에도 다양한 행사들이 축제 기간동안 펼쳐집니다.자발적으로 참여한 시민들로 구성된 서울퀴어문화축제조직위원회가 주최/주관합니다.\n\nThe Seoul Queer Culture Festival (SQCF) is an annual summer event held in Seoul, with the vision of creating a space where people of diverse identities, including sexual orientation and gender identity, can come together and enjoy in an equal and inclusive manner. The festival, which started in 2000 under the name Queer Culture Festival - Rainbow 2000, has evolved over the years and was renamed as the Seoul Queer Culture Festival in 2018. It aims to be a comprehensive, open, and cultural event.The festival is organized and hosted by the Seoul Queer Culture Festival Organizing Committee, comprised of voluntary citizen participants. The main events of the festival include the Seoul Queer Parade and the Korean Queer Film Festival, along with various other events that take place throughout the festival period.\n\n",
+        "location" : "서울퀴어문화축제", 
+        "whendate" : "",
+        "url" : "https://www.sqcf.org",
+        "youtubeurl" : ""
+        },
         {
-        "image" : "https://juhan3.github.io/exhibition/original/ready2.gif",
-        "person": "Queermoa",
-        "location" : "", 
-        "whendate" : "2023년07월02일",
-        "contents" : "갈만한 퀴어전시가 없을까, 재미있는 퀴어영화나 책은 없을까, 찾기 힘들다가 만든게 퀴어모아 였습니다. 추가적으로 종종 모임에서 글이나 그림창작물들을 올리거나 모아놓을곳이 없을때가 있어 처음에 그런의미에서 오리지널이라는것도 만들어놓았었습니다. 다만 명칭에 대해 고민이 많았었는데, 포스트로 변경을 하고 접수를 받을려고 합니다.\n자신의 생각을 나누거나 창작물을 따로 기록하고 싶으시다면 언제든지 환영이오니 많은 관심 부탁드립니다. 앞으로 좀 더 공부해서...좀 더 자유롭게 등록하거나 교류할 수 있는 방법을 연구해보겠습니다... 감사합니다.\n\n업데이트 사항 1.0.4\n-뒤로가기 버튼 시인성을 높였습니다.\n-본문에 다양한 이미지와 영상을 많이 첨부할 수 있도록 몇몇 내부구조를 변경했습니다.\n\n"
+            "image" : "https://juhan3.github.io/exhibition/pride/images/02.png",
+            "title" : "서울퀴어문화축제",
+            "person": "",
+            "contents" : "서울퀴어문화축제(Seoul Queer Culture Festival, SQCF)는\n\n성적지향과 성별정체성을 비롯한 다양한 정체성을 가진 모든 사람들이 평등하게 어우러져 즐기는 장을 만드는 것”을 비전으로 삼아 매해 여름 서울에서 개최되는 복합/공개/문화행사입니다.2000년, 퀴어문화축제-무지개2000라는 명칭으로 첫 회를 개최한 이후 퀴어문화축제-무지개OOOO, 퀴어문화축제라는 명칭을 거쳐 2018년 서울퀴어문화축제로 명칭을 변경한 뒤 지금까지 이어지고 있습니다.주요 행사로는 서울퀴어퍼레이드, 한국퀴어영화제가 있으며, 이외에도 다양한 행사들이 축제 기간동안 펼쳐집니다.자발적으로 참여한 시민들로 구성된 서울퀴어문화축제조직위원회가 주최/주관합니다.\n\nThe Seoul Queer Culture Festival (SQCF) is an annual summer event held in Seoul, with the vision of creating a space where people of diverse identities, including sexual orientation and gender identity, can come together and enjoy in an equal and inclusive manner. The festival, which started in 2000 under the name Queer Culture Festival - Rainbow 2000, has evolved over the years and was renamed as the Seoul Queer Culture Festival in 2018. It aims to be a comprehensive, open, and cultural event.The festival is organized and hosted by the Seoul Queer Culture Festival Organizing Committee, comprised of voluntary citizen participants. The main events of the festival include the Seoul Queer Parade and the Korean Queer Film Festival, along with various other events that take place throughout the festival period.\n\n",
+            "location" : "서울퀴어문화축제", 
+            "whendate" : "",
+            "url" : "https://www.sqcf.org",
+            "youtubeurl" : ""
         }
     ]
 }
