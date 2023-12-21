@@ -11,14 +11,14 @@
         "youtubeurl" : ""
         },
         {
-            "image" : "https://juhan3.github.io/exhibition/original/post01/images/2.png",
-            "title" : "and",
-            "person": "",
-            "contents" : "다양한 소식으로 찾아뵙겠습니다.\n\n",
-            "location" : "", 
-            "whendate" : "",
-            "url" : "",
-            "youtubeurl" : ""
-            }
+        "image" : "https://juhan3.github.io/exhibition/original/post01/images/2.png",
+        "title" : "and",
+        "person": "",
+        "contents" : "다양한 소식으로 찾아뵙겠습니다.\n\n",
+        "location" : "", 
+        "whendate" : "",
+        "url" : "",
+        "youtubeurl" : ""
+        }
     ]
 }
