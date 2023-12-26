@@ -1,24 +1,44 @@
-{"results" :
-    [
-       {
-        "image" : "https://juhan3.github.io/exhibition/original/post01/images/1.png",
-        "title" : "내 멋대로 올해의 음악",
-        "person": "editor Hajun",
-        "contents" : "죄송합니다 테스트를 위해 작성 테스트중이라 글이 고르지 않을 수 있습니다.\n\n",
-        "location" : "Queermoa", 
-        "whendate" : "12.21",
-        "url" : "",
-        "youtubeurl" : ""
+{
+    "results": [
+        {
+            "image": "https://juhan3.github.io/exhibition/original/post01/images/1.png",
+            "title": "내 멋대로 올해의 음악",
+            "person": "Editor Hajun",
+            "contents": "안녕하세요. 하준입니다. 요즘 제가 뉴스레터를 많이 읽는데 문뜩 퀴어모아에도 뉴스레터처럼 퀴어관련된 소식이나 정보들을 알리면 좋겠다고 느꼈어요. 다만 이메일 수집이 일어나면 위험한쪽으로 유출되면 악용될 수 있겠다 판단이 들어 이렇게 퀴어모아를 통해 소식과 정보들을 전하려 합니다. \\n\\n그 첫 번째로 올해의 퀴어 음원중 인상 깊었던 곡들을 소개하려 합니다.",
+            "location": "Queermoa",
+            "whendate": "12.26.2023",
+            "url": "",
+            "youtubeurl": ""
         },
         {
-        "image" : "https://juhan3.github.io/exhibition/original/post01/images/2.png",
-        "title" : "문단",
-        "person": "",
-        "contents" : "추가 내용 기입\n\n",
-        "location" : "", 
-        "whendate" : "",
-        "url" : "",
-        "youtubeurl" : ""
+            "image": "https://juhan3.github.io/exhibition/original/post01/images/2.png",
+            "title": "Unholy - Sam smith",
+            "person": "",
+            "contents": "\n\n정확히는 올래 나온 곡은 아니고 22년 9월 22일에 나온 싱글곡입니다. 그리고 2023년 정규 앨범에 수록되었는데요, 올해 퀴어 음악중에서 절대 빼놓을 수 없겠죠. 킴 페트라스와 함께 부른 곡으로, 이곡으로 그래미 베스트 팝 듀오/그룹 퍼포먼스 부분에 수상되었습니다. ㅗ치초의 트랜스젠더 여성으로서 받은 상으로 의미가 깊었습니다.\n\n그리고 이곡은 샘스미스가 한 매체에서 인터뷰로 실화를 소재로 한 곡이란 점에서도 한번 더 주목 받았습니다.\n\n저는 리믹스버전들도 가끔 듣고 있는데요 국내 내한공연때 퍼포먼스가 가장 인상 깊었습니다. 아직 못보신분들이 있다면 감상해보시길 추천드려요. Seoul! Welcome to my gay cabaret",
+            "location": "",
+            "whendate": "",
+            "url": "",
+            "youtubeurl": "https://youtu.be/pONZjG0HRXY"
+        },
+        {
+            "image": "https://juhan3.github.io/exhibition/original/post01/images/3.png",
+            "title": "HOLLAND - NUMBER BOY",
+            "person": "",
+            "contents": "\n\n저번 퀴어퍼레이드때 지나가다가 홀랜드님을 실제로 본적이 있어서 엄청 반가웠던적이 있어요. 보이즈플래닛에 출연했던 김지웅 가수가 출연해 화제였던 뮤직비디오를 같이 올려드릴께요. 넘버보이는 싱글곡으로 2023년 3월 30일에 발매되었어요. 뮤직비디오가 오픈되기 전 티저에서 \"당신이 누구든, 누구를 사랑하든, 나는 모든 형태의 사랑을 진심으로 지지하고 포용한다\"는 멘트가 나오는 영상을 올려줘서 마음이 몽글몽글했어요. 뮤직비디오도 정말 멋지니까 아직 못들어보신분은 꼭 들어보시기를 추천드려요.",
+            "location": "",
+            "whendate": "",
+            "url": "",
+            "youtubeurl": "https://youtu.be/0pwsAYBrsh8"
+        },
+        {
+            "image": "https://juhan3.github.io/exhibition/original/post01/images/4.png",
+            "title": "QI.X - Lights Up",
+            "person": "",
+            "contents": "\n\n개인적으로 정말 좋아하는 그룹인 QI.X를 소개할께요. 사실 최근에 Walk & Shine 이라는 싱글 신곡이 발매되었었는데요 그 곡을 소개하려다가 제가 처음 알게되고 좋아하는 곡인 Lights Up을 소개하고 싶어요. 가사가 정말 좋은 곡이라, 많이 공감도 하고 위로가 되어서 자주 듣고 있답니다. 이 곡도 꼭 한번 들어보시기를 추천드려요.\n\n아 홀랜드와 큐아이엑스 모두 따로 유투브를 운영중이니 일상 브이로그나 공연영상을 보실 수 있으니 관심 있으신분들은 구독하시면 좋을것 같아요~",
+            "location": "",
+            "whendate": "",
+            "url": "",
+            "youtubeurl": "https://youtu.be/QBwY8ACzQC8"
         }
     ]
 }
